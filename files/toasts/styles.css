@@ -1,0 +1,138 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:334px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u266_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:280px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(0, 0, 0, 0.749019607843137);
+  border:none;
+  border-radius:40px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#DCDCD7;
+}
+#u266 {
+  border-width:0px;
+  position:absolute;
+  left:32px;
+  top:32px;
+  width:280px;
+  height:48px;
+  font-size:14px;
+  color:#DCDCD7;
+}
+#u266_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:276px;
+  word-wrap:break-word;
+}
+#u267_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:280px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(0, 0, 0, 0.749019607843137);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#DCDCD7;
+}
+#u267 {
+  border-width:0px;
+  position:absolute;
+  left:54px;
+  top:222px;
+  width:280px;
+  height:48px;
+  font-size:14px;
+  color:#DCDCD7;
+}
+#u267_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:276px;
+  word-wrap:break-word;
+}
+#u268_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(67, 67, 67, 1);
+  border:none;
+  border-radius:1px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u268 {
+  border-width:0px;
+  position:absolute;
+  left:271px;
+  top:222px;
+  width:63px;
+  height:48px;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u268_div.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(94, 94, 94, 1);
+  border:none;
+  border-radius:1px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u268.mouseDown {
+}
+#u268_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:59px;
+  word-wrap:break-word;
+}
